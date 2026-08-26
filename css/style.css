@@ -417,8 +417,8 @@ button:focus{
 	margin-top: 5px;
 }
 
-.navbar-toggler:hover{
-	border: 1px solid ;
+.navbar-toggler:hover span{
+	background: #D86931;
 }
 
 
