@@ -390,7 +390,6 @@ button:focus{
 }
 
 .navbar-toggler{
-	border: 1px solid #57cef8 ;
 	border-radius: 0;
 	margin: 16px 15px;
 	padding: 10px 10px;
@@ -419,12 +418,9 @@ button:focus{
 }
 
 .navbar-toggler:hover{
-	border: 1px solid #70c6eb;
+	border: 1px solid ;
 }
 
-.navbar-toggler:hover span{
-	background: #70c6eb;
-}
 
 
 /*------------------------------------------------------------------
