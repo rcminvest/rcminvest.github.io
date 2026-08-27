@@ -1339,7 +1339,7 @@ select.form-control:not([size]):not([multiple]){
 	transition: .2s;
 	letter-spacing: 1px;
 	padding: 10px 18px;
-	background: #57cef8;
+	background: #9899AE;
 	color: #ffffff;
 	border: none;
 	cursor: pointer;
