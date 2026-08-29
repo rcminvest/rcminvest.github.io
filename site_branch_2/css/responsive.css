@@ -441,7 +441,7 @@
 		height: auto;
 	}
 	.navbar-default .navbar-toggle .icon-bar{
-		background-color: #ffffff;
+		background-color: #666666;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
 		border-color: #a8cf45;
